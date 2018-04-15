@@ -1,8 +1,14 @@
 /*
- * Delay.h
+ *  ABOUT
  *
- *  Created on: 05/01/2017
- *      Author: jlpe
+ * 	Date:		09 de Marzo del 2017
+ *
+ * 	Authors:	MARISCAL ARROYO JUAN PABLO
+ * 				MORENO ALONZO LUIS FERNANDO
+ * 				ZUÑIGA CARRILLO MARIO EUGENIO
+ *
+ * 	Description: Práctica #1
+ *
  */
 
 #ifndef SOURCES_DELAY_H_
